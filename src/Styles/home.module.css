@@ -1,0 +1,14 @@
+.puppyContainer{
+   
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 2rem;
+    width: 90%;
+    margin: auto;
+    margin-top: 5rem;
+}
+.puppyList{
+   border: 1px solid;
+   border-radius: 5px;
+  
+}

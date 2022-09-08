@@ -1,0 +1,27 @@
+.navbar{
+
+    display: flex;
+    padding: 15px;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(33, 166, 237);
+
+}
+.navbar .logo{
+    color: red;
+    box-sizing: border-box;
+    margin: 0;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: rgba(25, 119, 226, 0.833);
+    cursor: pointer;
+}
